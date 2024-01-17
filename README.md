@@ -1,1 +1,1 @@
-live at: https://akhildgithub.github.io/transparent-login-form/
+live at: https://login-akhil-dharavath.netlify.app/
